@@ -1,0 +1,7 @@
+[2024-07-27 07:42:08,012] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2024-07-27 07:42:09,399] 17 root - INFO - Data Ingestion have been started
+[2024-07-27 07:42:09,400] 22 root - INFO - Data loading.....
+[2024-07-27 07:42:09,420] 24 root - INFO - Raw data creating....
+[2024-07-27 07:42:09,428] 27 root - INFO - Raw data have been created
+[2024-07-27 07:42:09,431] 29 root - INFO - Training and testing data creation have been started
+[2024-07-27 07:42:09,442] 32 root - INFO - Train and test data have been created

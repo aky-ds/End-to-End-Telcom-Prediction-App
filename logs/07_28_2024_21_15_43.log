@@ -1,0 +1,3 @@
+[2024-07-28 21:15:43,518] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2024-07-28 21:15:45,071] 17 root - INFO - Data Ingestion have been started
+[2024-07-28 21:15:45,132] 21 root - INFO - Data transformation has been started
